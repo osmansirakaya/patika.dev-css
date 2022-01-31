@@ -1,4 +1,4 @@
-patika.dev-css ikinci ödev
+patika.dev css modülünün ikinci ödevi.
 
 Projenin görseli:
 
