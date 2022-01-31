@@ -1,11 +1,11 @@
-patika.dev-css modülünde yaptığım ödevleri/projeleri yüklediğim repo
+# patika.dev-css modülünde yaptığım ödevler
 
-# odev1
+## odev1
 Sıradan basit bir site tasarımı
 
-# odev2
+## odev2
 Google 1998 ana sayfa klonu
 
-# odev3
+## odev3
 Google günümüz ana sayfa klonu
 
