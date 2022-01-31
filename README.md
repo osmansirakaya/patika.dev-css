@@ -1,1 +1,1 @@
-patika.dev-css modülünde yaptığım ödev/projeleri yüklediğim repo
+patika.dev-css modülünde yaptığım ödevleri/projeleri yüklediğim repo
