@@ -1,4 +1,4 @@
-patika.dev-css modülünün ikinci ödevi: Google 1998 klonu
+patika.dev-css modülünün ikinci ödevi: Google'ın 1998'deki ana sayfa klonu
 
 Projenin görseli:
 
