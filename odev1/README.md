@@ -1,5 +1,4 @@
-# patika.dev-css modülünün ilk ödevi
-Basit site tasarımı
+# patika.dev-css modülünün ilk ödevi. Basit site tasarımı
 ## İletişim sayfasında kullandığım iconlara https://fontawesome.com/ sitesinden ulaşabilirsiniz.<br><br>
 
 ### Ana Sayfa
