@@ -1,4 +1,4 @@
-# patika.dev-css modülünde yaptığım ödevler
+# patika.dev-css modülünde yaptığım denemeler
 
 ## odev1
 Sıradan basit bir site tasarımı
